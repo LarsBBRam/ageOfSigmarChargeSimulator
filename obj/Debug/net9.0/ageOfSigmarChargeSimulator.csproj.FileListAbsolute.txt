@@ -1,0 +1,14 @@
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\bin\Debug\net9.0\ageOfSigmarChargeSimulator.exe
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\bin\Debug\net9.0\ageOfSigmarChargeSimulator.deps.json
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\bin\Debug\net9.0\ageOfSigmarChargeSimulator.runtimeconfig.json
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\bin\Debug\net9.0\ageOfSigmarChargeSimulator.dll
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\bin\Debug\net9.0\ageOfSigmarChargeSimulator.pdb
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\obj\Debug\net9.0\ageOfSigmarChargeSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\obj\Debug\net9.0\ageOfSigmarChargeSimulator.AssemblyInfoInputs.cache
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\obj\Debug\net9.0\ageOfSigmarChargeSimulator.AssemblyInfo.cs
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\obj\Debug\net9.0\ageOfSigmarChargeSimulator.csproj.CoreCompileInputs.cache
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\obj\Debug\net9.0\ageOfSigmarChargeSimulator.dll
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\obj\Debug\net9.0\refint\ageOfSigmarChargeSimulator.dll
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\obj\Debug\net9.0\ageOfSigmarChargeSimulator.pdb
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\obj\Debug\net9.0\ageOfSigmarChargeSimulator.genruntimeconfig.cache
+D:\Kodehode\koding\C#\ageOfSigmarChargeSimulator\obj\Debug\net9.0\ref\ageOfSigmarChargeSimulator.dll
