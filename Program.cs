@@ -137,10 +137,14 @@ class Program
                     if (roll1 + chargeBonus + 0.5 >= chargeDistance)
                     {
                         Console.WriteLine($" You can charge for {roll1 + chargeBonus} inches and will make it in!");
+                        Console.WriteLine("Press any key to exit program.");
+                        Console.ReadKey();
                     }
                     else
                     {
                         Console.WriteLine($"You only rolled {roll1 + chargeBonus}, which is not enough. You fail your charge.");
+                        Console.WriteLine("Press any key to exit program.");
+                        Console.ReadKey();
 
                     }
                     break;
@@ -148,11 +152,14 @@ class Program
                     if (roll1 + roll2 + chargeBonus + 0.5 >= chargeDistance)
                     {
                         Console.WriteLine($" You can charge for {roll1 + roll2 + chargeBonus} inches and will make it in!");
+                        Console.WriteLine("Press any key to exit program.");
+                        Console.ReadKey();
                     }
                     else
                     {
                         Console.WriteLine($"You only rolled {roll1 + roll2 + chargeBonus}, which is not enough. You fail your charge.");
-
+                        Console.WriteLine("Press any key to exit program.");
+                        Console.ReadKey();
                     }
                     break;
 
@@ -160,11 +167,15 @@ class Program
                     if (roll1 + roll2 + roll3 + chargeBonus + 0.5 >= chargeDistance)
                     {
                         Console.WriteLine($" You can charge for {roll1 + roll2 + roll3 + chargeBonus} inches and will make it in!");
+                        Console.WriteLine("Press any key to exit program.");
+                        Console.ReadKey();
 
                     }
                     else
                     {
                         Console.WriteLine($"You only rolled {roll1 + roll2 + roll3 + chargeBonus}, which is not enough. You fail your charge.");
+                        Console.WriteLine("Press any key to exit program.");
+                        Console.ReadKey();
 
                     }
                     break;
@@ -173,6 +184,8 @@ class Program
         else
         {
             Console.WriteLine("Try again with a different unit, or another turn.");
+            Console.WriteLine("Press any key to exit program.");
+            Console.ReadKey();
         }
 
 

@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Far\\.nuget\\packages\\": {}
+    "C:\\Users\\LB\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\kodehode\\koding\\c#\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
+      "projectUniqueName": "D:\\Kodehode\\C#\\gits\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
       "projectName": "ageOfSigmarChargeSimulator",
-      "projectPath": "D:\\kodehode\\koding\\c#\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
-      "packagesPath": "C:\\Users\\Far\\.nuget\\packages\\",
-      "outputPath": "D:\\kodehode\\koding\\c#\\ageOfSigmarChargeSimulator\\obj\\",
+      "projectPath": "D:\\Kodehode\\C#\\gits\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
+      "packagesPath": "C:\\Users\\LB\\.nuget\\packages\\",
+      "outputPath": "D:\\Kodehode\\C#\\gits\\ageOfSigmarChargeSimulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Far\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LB\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
