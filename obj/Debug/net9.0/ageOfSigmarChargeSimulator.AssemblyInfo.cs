@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ageOfSigmarChargeSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c872ec24cb90dcb5a4475ec05c2874d3a2c36f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c7a271c5a7b3b6ab58352ccfae796597d303a22")]
 [assembly: System.Reflection.AssemblyProductAttribute("ageOfSigmarChargeSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ageOfSigmarChargeSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
