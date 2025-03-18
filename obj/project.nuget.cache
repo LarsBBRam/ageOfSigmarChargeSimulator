@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cHJbVlZv/ns=",
+  "dgSpecHash": "G0DqfIb1J8k=",
   "success": true,
-  "projectFilePath": "D:\\Kodehode\\C#\\gits\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\LB\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.2\\microsoft.netcore.app.runtime.win-x64.9.0.2.nupkg.sha512",
-    "C:\\Users\\LB\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.2.nupkg.sha512",
-    "C:\\Users\\LB\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.2\\microsoft.aspnetcore.app.runtime.win-x64.9.0.2.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Kodehode\\koding\\C#\\charge sim\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

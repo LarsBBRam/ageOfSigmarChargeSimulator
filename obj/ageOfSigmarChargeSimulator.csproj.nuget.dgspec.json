@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kodehode\\C#\\gits\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj": {}
+    "D:\\Kodehode\\koding\\C#\\charge sim\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj": {}
   },
   "projects": {
-    "D:\\Kodehode\\C#\\gits\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj": {
+    "D:\\Kodehode\\koding\\C#\\charge sim\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kodehode\\C#\\gits\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
+        "projectUniqueName": "D:\\Kodehode\\koding\\C#\\charge sim\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
         "projectName": "ageOfSigmarChargeSimulator",
-        "projectPath": "D:\\Kodehode\\C#\\gits\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
-        "packagesPath": "C:\\Users\\LB\\.nuget\\packages\\",
-        "outputPath": "D:\\Kodehode\\C#\\gits\\ageOfSigmarChargeSimulator\\obj\\",
+        "projectPath": "D:\\Kodehode\\koding\\C#\\charge sim\\ageOfSigmarChargeSimulator\\ageOfSigmarChargeSimulator.csproj",
+        "packagesPath": "C:\\Users\\Far\\.nuget\\packages\\",
+        "outputPath": "D:\\Kodehode\\koding\\C#\\charge sim\\ageOfSigmarChargeSimulator\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Far\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,31 +61,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[9.0.2, 9.0.2]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[9.0.2, 9.0.2]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[9.0.2, 9.0.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
